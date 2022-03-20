@@ -1,0 +1,10 @@
+name: sondra-tester
+channels:
+- conda-forge
+dependencies:
+- matplotlib-base
+- pandas
+- numpy
+- ipywidgets
+- jupyterlab>=3.1
+- voila>=0.2.11
